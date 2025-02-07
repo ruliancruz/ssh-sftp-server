@@ -1,4 +1,4 @@
-# Simple SSH + SFTP server
+# SSH + SFTP server
 
 This is a simple SSH + SFTP server that can be used for testing purposes.
 
